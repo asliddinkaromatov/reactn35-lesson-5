@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* start section */
+.section {
+    max-width: 1440px;
+    background-color: #F5F5F5;
+    padding: 100px 0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.section h2 {
+    display: inline-block;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.section p {
+    margin-top: 28px;
+    margin-bottom: 90px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.section-button {
+    margin-top: 87px;
+    border-radius: 30px;
+    background: #6F2CFF;
+    color: white;
+    font-size: 15px;
+    padding: 11px 45px;
+}
+
+.section-button1 {
+    margin-top: 87px;
+    margin-left: 22px;
+    border-radius: 30px;
+    background: #FFF;
+    color: #6F2CFF;
+    box-shadow: 0px 0px 0px 0px #6F2CFF;
+    font-size: 15px;
+    padding: 11px 45px;
+}
+
+/* end section  */
+
+/* start section 2 */
+.section-1 {
+    max-width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 77px 0 100px 0;
+    background-color: white;
+}
+
+.section-1 h2 {
+    font-size: 40px;
+}
+
+.son {
+    margin-top: 70px;
+}
+
+.parent-1 {
+    display: inline-block;
+    text-align: center;
+    max-width: 350px;
+    margin-left: 40px;
+    border-radius: 0px 0px 7px 7px;
+    background: #F5F5F5;
+    box-shadow: 0px 2px 4px 0px rgba(192, 192, 192, 0.50);
+}
+
+.son-img {
+    max-width: 400px;
+}
+
+.imaging {
+    max-width: 150px;
+    margin-top: 45px;
+}
+
+.parent-1 p {
+    width: 180px;
+    margin: 25px 40px 60px 60px;
+    text-align: center;
+    color: #6F2CFF;
+    font-weight: 700;
+}
+
+/* end section 2 */
+
+/* start sextion 3 */
+.section-2 {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #F5F5F5;
+    text-align: center;
+    padding: 68px 0;
+}
+
+.section-2 h2 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 45px;
+    margin-bottom: 12px;
+}
+
+.p-far {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+margin-bottom: 43px;
+}
+.parent{
+    margin: 0 auto;
+
+}
+.neibor{
+    max-width: 490px;
+    display: inline-block;
+    border-radius: 8px 10px 10px 8px;
+    background: #17002E;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    padding: 32px 77px 22px 32px;
+}
+.parent img{
+    display: inline-block;
+    margin-right: 20px;
+   
+}
+.parent h3{
+    color: #F5F5F5;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-right: 98px;
+
+}
+.parent p{
+    color: #F5F5F5;
+    margin-bottom: 9px;
+    text-align: start;
+}
+.neibor hr{
+    height: 2px;
+}
+
+/* end section 3 */
